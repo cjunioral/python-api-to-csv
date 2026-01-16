@@ -34,7 +34,7 @@ projeto_Requests/
 │   └── dados_tratados.csv
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ### 👨‍💻 Autor
